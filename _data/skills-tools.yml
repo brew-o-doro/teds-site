@@ -34,3 +34,6 @@
 
 - name: Postman
   weight: 4
+
+- name: Agile
+  weight: 4

@@ -11,23 +11,34 @@
 #     - tag: MongoDB
 #     - tag: Express
 #     - tag: AngularJS
-#     - tag: Node
+#     - tag: Nodef
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: react-redux deckbox
+  descr: "React Deckbox is an app with a Javascript frontend and Ruby on Rails API backend to create a collection of cards to keep track of your inventory or perspective card pulls with the Scratchpad feature!"
+  demo: https://github.com/brew-o-doro/react-redux-deckbox
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
+    - tag: ReactJS
+    - tag: Redux
+    - tag: Semantic UI
+    - tag: SQLite
+
+- name: Oracle || A Yik Yak Clone
+  descr: "Oracle is an anonymous posting site similar to whisper without the pictures"
+  demo: https://github.com/brew-o-doro/oracle-js-project
+  tags:
+    - tag: Vanilla JS
+    - tag: JavaScript
+    - tag: DOM
     - tag: Node
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Brew-ti-ful Reviews
+  descr: "Brew-Ti-Ful Reviews is an app built with Rails that allows users to add coffees they have tasted or have yet to taste to the DB. Users can browse the index of coffees they or other's have added and leave reviews for the coffees they have tasted. Options for logging in or signing up with a username and password are available, but a user can choose to log in or signup through Google thanks to Omniauth. Users can browse reviews of other users for a particular coffee, but can only edit their own reviews."
+  demo: https://github.com/brew-o-doro/Brew-ti-ful-Reviews
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Ruby on Rails
+    - tag: Ruby
+    - tag: SQLite
+    - tag: Omniauth
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+# - name: project Z
+#   descr: "You can also set a project without demo link and no tags"

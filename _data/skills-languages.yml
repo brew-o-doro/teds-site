@@ -24,7 +24,7 @@
   weight: 3
 
 - name: Java
-  weight: 1
+  weight: 2
 
 - name: Dart
   weight: 1
@@ -39,4 +39,4 @@
   weight: 2
 
 - name: Ruby
-  weight: 2
+  weight: 4
