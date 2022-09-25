@@ -58,10 +58,13 @@ a {
     color: $text-color;
   }
 }
+.custom-title	{
+	color: $primary-color;
+}
 
 .highlight-title {
-  color: $primary-color;
-  text-shadow: 0.25rem 0.25rem 0.25rem $primary-color;
+  // color: $primary-color;
+  // text-shadow: 0.25rem 0.25rem 0.25rem $primary-color;
 }
 
 .highlight-link {
